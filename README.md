@@ -8,8 +8,11 @@ Project Description: A simple Expense tracking software to manage your financial
 
 How to run the project: 
 either
--install the APK file in the repository on an android phone 
+
+- install the APK file in the repository on an android phone
+- 
 or (to run it on a PC)
+
 1. install Visual studio - @https://visualstudio.microsoft.com/downloads/
 2. install flutter - https://docs.flutter.dev/get-started/install
 3. download the repository and run the project on android studio
