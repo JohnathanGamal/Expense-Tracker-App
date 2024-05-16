@@ -1,6 +1,7 @@
 Project Description: A simple Expense tracking software to manage your financials 
+
 -including features like:
--Adding transactions either incomes or expenses
+- Adding transactions either incomes or expenses
 - including each transaction to a category that can have a limited budget allocated to it.
 - Add custom categories and setting their name, Icon and budget.
 - producing a report that has all past transactions and their categories.
