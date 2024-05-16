@@ -10,7 +10,7 @@ How to run the project:
 either
 
 - install the APK file in the repository on an android phone
-- 
+
 or (to run it on a PC)
 
 1. install Visual studio - @https://visualstudio.microsoft.com/downloads/
